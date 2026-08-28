@@ -170,7 +170,7 @@ The backend (Render) does not call Gmail directly. Instead, `mailer.js` fetches 
 ### Clone
 
 ```bash
-git clone https://github.com/HMAjay/Vehicle-Search-Assist.git
+git clone https://github.com/Surajdevamane/VahanConnect.git
 cd Vehicle-Search-Assist
 ```
 
